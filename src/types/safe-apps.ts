@@ -1,0 +1,1 @@
+No Content: https://swap.eth.limo/src/types/safe-apps.ts
