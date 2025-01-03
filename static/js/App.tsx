@@ -36,7 +36,7 @@ const App = (): JSX.Element => {
     <>
       <HelmetContainer
         title={
-          "AirSwap: Peer-to-peer Token Trading DEX and Open Source Developer DAO"
+          "FluidEx AI: Peer-to-peer Token Trading DEX and Open Source Developer DAO"
         }
       />
 

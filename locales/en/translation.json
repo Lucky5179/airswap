@@ -1,7 +1,7 @@
 {
   "app": {
-    "description": "AirSwap powers peer-to-peer trading.",
-    "title": "AirSwap: Peer-to-peer Token Trading DEX and Open Source Developer DAO"
+    "description": "FluidEx AI powers peer-to-peer trading.",
+    "title": "FluidEx AI: Peer-to-peer Token Trading DEX and Open Source Developer DAO"
   },
   "balances": {
     "addToTokenSet": "Import",
